@@ -4,7 +4,7 @@
 
 ## 1. Attacks Detection Scheme
 
-![alt-text](https://github.com/mnguyen0226/xtgcn_wds_cps/blob/main/docs/imgs/framework/attack_detection_scheme.png)
+![alt-text](https://github.com/AI-VTRC/AIA_for_CPS/blob/main/docs/imgs/framework/attack_detection_scheme.png)
 
 ## 2. Reproducibility
 
@@ -19,7 +19,7 @@
 
 ## 3. A3T-GCN Architecture
 
-![alt-text](https://github.com/mnguyen0226/atgcn_cps/blob/main/docs/imgs/a3t_gcn/a3t_gcn.png)
+![alt-text](https://github.com/AI-VTRC/AIA_for_CPS/blob/main/docs/imgs/a3t_gcn/a3t_gcn.png)
 
 ## 4. Results
 
@@ -48,7 +48,7 @@
 | R2   | -0.6772449017        | -0.6805173159 |
 | Variance   | 0.9530872479        | 0.9646917097 |
 
-- [Result](https://github.com/mnguyen0226/atgcn_cps/tree/main/docs/imgs/results/forecasting).
+- [Result](https://github.com/AI-VTRC/AIA_for_CPS/tree/main/docs/imgs/results/forecasting).
 
 ### Attack Detection
 
